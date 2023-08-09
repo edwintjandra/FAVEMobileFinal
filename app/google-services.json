@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "304147428965",
+    "project_id": "authentication-28a25",
+    "storage_bucket": "authentication-28a25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304147428965:android:ebfbe557d2e01447dab88c",
+        "android_client_info": {
+          "package_name": "com.example.favepertemuan3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304147428965-ujoqtd9qodlgsq1vtr6adu26uji5bnr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdoPJFAhKi1ckvDpFmuNElkyHz3h9TiPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304147428965-ujoqtd9qodlgsq1vtr6adu26uji5bnr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
